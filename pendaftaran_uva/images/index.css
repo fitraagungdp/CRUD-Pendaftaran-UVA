@@ -1,0 +1,17 @@
+.body{
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    background: url(images/backgorund2.jpg);
+    background-size: cover;
+}
+
+.h1{
+    color: whitesmoke;
+    text-align: center;
+}
+
+.input{
+    margin:50px;
+}
